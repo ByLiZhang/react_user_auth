@@ -1,5 +1,5 @@
 {
-  "name": "react_starter",
+  "name": "react_user_auth",
   "version": "1.0.0",
   "description": "Starting setup for react redux project",
   "main": "index.js",
@@ -8,14 +8,15 @@
     "bundle": "webpack --config webpack.prod.js --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott Bowler",
+  "author": "Li Zhang",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/ByLiZhang/react_user_auth.git"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.7",
